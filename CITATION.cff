@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use EYE (code or labels), please cite it as below."
+title: "EYE: Taiwan pedestrian signal and zebra-crossing recognition for a blind street-crossing aid on Kendryte K230"
+authors:
+  - family-names: "Yeh"
+    given-names: "Lawrence"
+    alias: "葉瀚天"
+    affiliation: "Taipei Municipal Da-An Vocational High School"
+date-released: "2026-10-21"
+license: MIT
+repository-code: "https://github.com/948787878787/EYE"
+keywords:
+  - assistive technology
+  - visually impaired
+  - pedestrian traffic light
+  - zebra crossing
+  - K230
+  - YOLO

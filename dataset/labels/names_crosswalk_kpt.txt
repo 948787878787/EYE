@@ -1,0 +1,2 @@
+crosswalk
+# keypoints: 0 = near end, 1 = far end of the crossing midline (kpt_shape [2, 3])
